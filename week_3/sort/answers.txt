@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Because when it is executed with reversed50000.txt it makes work compared to sort2.
+
+sort2 uses: merge sort
+
+How do you know?: Because when it is executed with random50000.txt it is able to done fast.
+
+sort3 uses: selection sort.
+
+How do you know?: Because when it is executed with sorted5000.txt still makes work like selection sort.
